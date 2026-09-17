@@ -11,13 +11,13 @@ Claims must follow the allowed/banned list in the `community-gtm-hunting` skill.
 - localpay-vs-surfcash.html — "localpay vs surfcash"
 - send-money-to-vietnam.html — "best way to send money to vietnam 2026"
 - pay-landlord-crypto.html — "pay vietnam landlord crypto"
+- deposit-escrow.html — "vietnam security deposit crypto escrow"
 
 ## Queue (next pages to ship)
-1. "vietnam security deposit crypto escrow" — deposit-escrow.html
-2. "digital nomad vietnam cost of living 2026 banking" — nomad-vietnam.html
-3. "wisepay vietnam vs crypto" / "wise vs surfcash" — wise-vs-surfcash.html
-4. "promptpay foreigner thailand" — promptpay-thailand.html
-5. "pix brazil crypto" — pix-brazil.html
+1. "digital nomad vietnam cost of living 2026 banking" — nomad-vietnam.html
+2. "wisepay vietnam vs crypto" / "wise vs surfcash" — wise-vs-surfcash.html
+3. "promptpay foreigner thailand" — promptpay-thailand.html
+4. "pix brazil crypto" — pix-brazil.html
 
 ## Rules
 - Honest numbers only. Moreta ~1.5%, SurfCash 0.5%, LocalPay spread-based.
