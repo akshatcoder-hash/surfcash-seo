@@ -13,11 +13,11 @@ Claims must follow the allowed/banned list in the `community-gtm-hunting` skill.
 - pay-landlord-crypto.html — "pay vietnam landlord crypto"
 - deposit-escrow.html — "vietnam security deposit crypto escrow"
 - nomad-vietnam.html — "digital nomad vietnam cost of living 2026 banking"
+- wise-vs-surfcash.html — "wisepay vietnam vs crypto", "wise vs surfcash"
 
 ## Queue (next pages to ship)
-1. "wisepay vietnam vs crypto" / "wise vs surfcash" — wise-vs-surfcash.html
-2. "promptpay foreigner thailand" — promptpay-thailand.html
-3. "pix brazil crypto" — pix-brazil.html
+1. "promptpay foreigner thailand" — promptpay-thailand.html
+2. "pix brazil crypto" — pix-brazil.html
 
 ## Rules
 - Honest numbers only. Moreta ~1.5%, SurfCash 0.5%, LocalPay spread-based.
